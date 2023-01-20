@@ -24,10 +24,10 @@
         }
     }
     function download() {
-        domtoimage.toJpeg(context, { quality: 0.95 })
+        domtoimage.toPng(context, { quality: 0.95 })
         .then(function (dataUrl) {
             var link = document.createElement('a');
-            link.download = `stickman_${current.name}.jpeg`;
+            link.download = `stickman_${current.name}.png`;
             link.href = dataUrl;
             link.click();
         });
