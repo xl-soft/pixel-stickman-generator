@@ -1,0 +1,1338 @@
+{
+	"food": [
+		{
+			"url": "Avocado.png",
+			"name": "avocado"
+		},
+		{
+			"url": "Baby Bottle.png",
+			"name": "baby_bottle"
+		},
+		{
+			"url": "Bacon.png",
+			"name": "bacon"
+		},
+		{
+			"url": "Bagel.png",
+			"name": "bagel"
+		},
+		{
+			"url": "Baguette Bread.png",
+			"name": "baguette_bread"
+		},
+		{
+			"url": "Banana.png",
+			"name": "banana"
+		},
+		{
+			"url": "Beer Mug.png",
+			"name": "beer_mug"
+		},
+		{
+			"url": "Bell Pepper.png",
+			"name": "bell_pepper"
+		},
+		{
+			"url": "Bento Box.png",
+			"name": "bento_box"
+		},
+		{
+			"url": "Beverage Box.png",
+			"name": "beverage_box"
+		},
+		{
+			"url": "Birthday Cake.png",
+			"name": "birthday_cake"
+		},
+		{
+			"url": "Blueberries.png",
+			"name": "blueberries"
+		},
+		{
+			"url": "Bowl With Spoon.png",
+			"name": "bowl_with_spoon"
+		},
+		{
+			"url": "Bread.png",
+			"name": "bread"
+		},
+		{
+			"url": "Bubble Tea.png",
+			"name": "bubble_tea"
+		},
+		{
+			"url": "Burrito.png",
+			"name": "burrito"
+		},
+		{
+			"url": "Butter.png",
+			"name": "butter"
+		},
+		{
+			"url": "Candy.png",
+			"name": "candy"
+		},
+		{
+			"url": "Canned Food.png",
+			"name": "canned_food"
+		},
+		{
+			"url": "Carrot.png",
+			"name": "carrot"
+		},
+		{
+			"url": "Cheese Wedge.png",
+			"name": "cheese_wedge"
+		},
+		{
+			"url": "Cherries.png",
+			"name": "cherries"
+		},
+		{
+			"url": "Chestnut.png",
+			"name": "chestnut"
+		},
+		{
+			"url": "Chocolate Bar.png",
+			"name": "chocolate_bar"
+		},
+		{
+			"url": "Chopsticks.png",
+			"name": "chopsticks"
+		},
+		{
+			"url": "Clinking Beer Mugs.png",
+			"name": "clinking_beer_mugs"
+		},
+		{
+			"url": "Clinking Glasses.png",
+			"name": "clinking_glasses"
+		},
+		{
+			"url": "Cocktail Glass.png",
+			"name": "cocktail_glass"
+		},
+		{
+			"url": "Coconut.png",
+			"name": "coconut"
+		},
+		{
+			"url": "Cooked Rice.png",
+			"name": "cooked_rice"
+		},
+		{
+			"url": "Cookie.png",
+			"name": "cookie"
+		},
+		{
+			"url": "Cooking.png",
+			"name": "cooking"
+		},
+		{
+			"url": "Croissant.png",
+			"name": "croissant"
+		},
+		{
+			"url": "Cucumber.png",
+			"name": "cucumber"
+		},
+		{
+			"url": "Cup With Straw.png",
+			"name": "cup_with_straw"
+		},
+		{
+			"url": "Cupcake.png",
+			"name": "cupcake"
+		},
+		{
+			"url": "Curry Rice.png",
+			"name": "curry_rice"
+		},
+		{
+			"url": "Custard.png",
+			"name": "custard"
+		},
+		{
+			"url": "Cut Of Meat.png",
+			"name": "cut_of_meat"
+		},
+		{
+			"url": "Doughnut.png",
+			"name": "doughnut"
+		},
+		{
+			"url": "Dumpling.png",
+			"name": "dumpling"
+		},
+		{
+			"url": "Ear Of Corn.png",
+			"name": "ear_of_corn"
+		},
+		{
+			"url": "Egg.png",
+			"name": "egg"
+		},
+		{
+			"url": "Eggplant.png",
+			"name": "eggplant"
+		},
+		{
+			"url": "Falafel.png",
+			"name": "falafel"
+		},
+		{
+			"url": "Flatbread.png",
+			"name": "flatbread"
+		},
+		{
+			"url": "Fondue.png",
+			"name": "fondue"
+		},
+		{
+			"url": "Fork And Knife With Plate.png",
+			"name": "fork_and_knife_with_plate"
+		},
+		{
+			"url": "Fortune Cookie.png",
+			"name": "fortune_cookie"
+		},
+		{
+			"url": "French Fries.png",
+			"name": "french_fries"
+		},
+		{
+			"url": "Fried Shrimp.png",
+			"name": "fried_shrimp"
+		},
+		{
+			"url": "Garlic.png",
+			"name": "garlic"
+		},
+		{
+			"url": "Glass Of Milk.png",
+			"name": "glass_of_milk"
+		},
+		{
+			"url": "Grapes.png",
+			"name": "grapes"
+		},
+		{
+			"url": "Green Apple.png",
+			"name": "green_apple"
+		},
+		{
+			"url": "Green Salad.png",
+			"name": "green_salad"
+		},
+		{
+			"url": "Hamburger.png",
+			"name": "hamburger"
+		},
+		{
+			"url": "Honey Pot.png",
+			"name": "honey_pot"
+		},
+		{
+			"url": "Hot Beverage.png",
+			"name": "hot_beverage"
+		},
+		{
+			"url": "Hot Dog.png",
+			"name": "hot_dog"
+		},
+		{
+			"url": "Hot Pepper.png",
+			"name": "hot_pepper"
+		},
+		{
+			"url": "Ice Cream.png",
+			"name": "ice_cream"
+		},
+		{
+			"url": "Ice.png",
+			"name": "ice"
+		},
+		{
+			"url": "Kitchen Knife.png",
+			"name": "kitchen_knife"
+		},
+		{
+			"url": "Kiwi Fruit.png",
+			"name": "kiwi_fruit"
+		},
+		{
+			"url": "Leafy Green.png",
+			"name": "leafy_green"
+		},
+		{
+			"url": "Lemon.png",
+			"name": "lemon"
+		},
+		{
+			"url": "Mango.png",
+			"name": "mango"
+		},
+		{
+			"url": "Meat On Bone.png",
+			"name": "meat_on_bone"
+		},
+		{
+			"url": "Melon.png",
+			"name": "melon"
+		},
+		{
+			"url": "Moon Cake.png",
+			"name": "moon_cake"
+		},
+		{
+			"url": "Mushroom.png",
+			"name": "mushroom"
+		},
+		{
+			"url": "Olive.png",
+			"name": "olive"
+		},
+		{
+			"url": "Onion.png",
+			"name": "onion"
+		},
+		{
+			"url": "Oyster.png",
+			"name": "oyster"
+		},
+		{
+			"url": "Pancakes.png",
+			"name": "pancakes"
+		},
+		{
+			"url": "Peach.png",
+			"name": "peach"
+		},
+		{
+			"url": "Peanuts.png",
+			"name": "peanuts"
+		},
+		{
+			"url": "Pear.png",
+			"name": "pear"
+		},
+		{
+			"url": "Pie.png",
+			"name": "pie"
+		},
+		{
+			"url": "Pineapple.png",
+			"name": "pineapple"
+		},
+		{
+			"url": "Popcorn.png",
+			"name": "popcorn"
+		},
+		{
+			"url": "Pot Of Food.png",
+			"name": "pot_of_food"
+		},
+		{
+			"url": "Potato.png",
+			"name": "potato"
+		},
+		{
+			"url": "Poultry Leg.png",
+			"name": "poultry_leg"
+		},
+		{
+			"url": "Pretzel.png",
+			"name": "pretzel"
+		},
+		{
+			"url": "Red Apple.png",
+			"name": "red_apple"
+		},
+		{
+			"url": "Rice Ball.png",
+			"name": "rice_ball"
+		},
+		{
+			"url": "Rice Cracker.png",
+			"name": "rice_cracker"
+		},
+		{
+			"url": "Roasted Sweet Potato.png",
+			"name": "roasted_sweet_potato"
+		},
+		{
+			"url": "Sake.png",
+			"name": "sake"
+		},
+		{
+			"url": "Salt.png",
+			"name": "salt"
+		},
+		{
+			"url": "Sandwich.png",
+			"name": "sandwich"
+		},
+		{
+			"url": "Shallow Pan Of Food.png",
+			"name": "shallow_pan_of_food"
+		},
+		{
+			"url": "Shaved Ice.png",
+			"name": "shaved_ice"
+		},
+		{
+			"url": "Shortcake.png",
+			"name": "shortcake"
+		},
+		{
+			"url": "Soft Ice Cream.png",
+			"name": "soft_ice_cream"
+		},
+		{
+			"url": "Spaghetti.png",
+			"name": "spaghetti"
+		},
+		{
+			"url": "Spoon.png",
+			"name": "spoon"
+		},
+		{
+			"url": "Steaming Bowl.png",
+			"name": "steaming_bowl"
+		},
+		{
+			"url": "Strawberry.png",
+			"name": "strawberry"
+		},
+		{
+			"url": "Stuffed Flatbread.png",
+			"name": "stuffed_flatbread"
+		},
+		{
+			"url": "Sushi.png",
+			"name": "sushi"
+		},
+		{
+			"url": "Taco.png",
+			"name": "taco"
+		},
+		{
+			"url": "Takeout Box.png",
+			"name": "takeout_box"
+		},
+		{
+			"url": "Tamale.png",
+			"name": "tamale"
+		},
+		{
+			"url": "Tangerine.png",
+			"name": "tangerine"
+		},
+		{
+			"url": "Teacup Without Handle.png",
+			"name": "teacup_without_handle"
+		},
+		{
+			"url": "Tomato.png",
+			"name": "tomato"
+		},
+		{
+			"url": "Tropical Drink.png",
+			"name": "tropical_drink"
+		},
+		{
+			"url": "Tumbler Glass.png",
+			"name": "tumbler_glass"
+		},
+		{
+			"url": "Waffle.png",
+			"name": "waffle"
+		},
+		{
+			"url": "Watermelon.png",
+			"name": "watermelon"
+		},
+		{
+			"url": "Wine Glass.png",
+			"name": "wine_glass"
+		}
+	],
+	"nature": [
+		{
+			"url": "Baby Chick.png",
+			"name": "baby_chick"
+		},
+		{
+			"url": "Blossom.png",
+			"name": "blossom"
+		},
+		{
+			"url": "Butterfly.png",
+			"name": "butterfly"
+		},
+		{
+			"url": "Cactus.png",
+			"name": "cactus"
+		},
+		{
+			"url": "Cherry Blossom.png",
+			"name": "cherry_blossom"
+		},
+		{
+			"url": "Chicken.png",
+			"name": "chicken"
+		},
+		{
+			"url": "Cow Face.png",
+			"name": "cow_face"
+		},
+		{
+			"url": "Crab.png",
+			"name": "crab"
+		},
+		{
+			"url": "Crescent Moon.png",
+			"name": "crescent_moon"
+		},
+		{
+			"url": "Deciduous Tree.png",
+			"name": "deciduous_tree"
+		},
+		{
+			"url": "Dog Face.png",
+			"name": "dog_face"
+		},
+		{
+			"url": "Dragon Face.png",
+			"name": "dragon_face"
+		},
+		{
+			"url": "Evergreen Tree.png",
+			"name": "evergreen_tree"
+		},
+		{
+			"url": "Flamingo.png",
+			"name": "flamingo"
+		},
+		{
+			"url": "Fly.png",
+			"name": "fly"
+		},
+		{
+			"url": "Fox.png",
+			"name": "fox"
+		},
+		{
+			"url": "Frog.png",
+			"name": "frog"
+		},
+		{
+			"url": "Full Moon Face.png",
+			"name": "full_moon_face"
+		},
+		{
+			"url": "Globe With Meridians.png",
+			"name": "globe_with_meridians"
+		},
+		{
+			"url": "Guide Dog.png",
+			"name": "guide_dog"
+		},
+		{
+			"url": "Hamster.png",
+			"name": "hamster"
+		},
+		{
+			"url": "Hatching Chick.png",
+			"name": "hatching_chick"
+		},
+		{
+			"url": "Hibiscus.png",
+			"name": "hibiscus"
+		},
+		{
+			"url": "Koala.png",
+			"name": "koala"
+		},
+		{
+			"url": "Lady Beetle.png",
+			"name": "lady_beetle"
+		},
+		{
+			"url": "Lion.png",
+			"name": "lion"
+		},
+		{
+			"url": "Lobster.png",
+			"name": "lobster"
+		},
+		{
+			"url": "Microbe.png",
+			"name": "microbe"
+		},
+		{
+			"url": "Monkey Face.png",
+			"name": "monkey_face"
+		},
+		{
+			"url": "Mouse Face.png",
+			"name": "mouse_face"
+		},
+		{
+			"url": "New Moon Face.png",
+			"name": "new_moon_face"
+		},
+		{
+			"url": "Octopus.png",
+			"name": "octopus"
+		},
+		{
+			"url": "Panda.png",
+			"name": "panda"
+		},
+		{
+			"url": "Penguin.png",
+			"name": "penguin"
+		},
+		{
+			"url": "Pig Face.png",
+			"name": "pig_face"
+		},
+		{
+			"url": "Pig Nose.png",
+			"name": "pig_nose"
+		},
+		{
+			"url": "Polar Bear.png",
+			"name": "polar_bear"
+		},
+		{
+			"url": "Rabbit Face.png",
+			"name": "rabbit_face"
+		},
+		{
+			"url": "Rock.png",
+			"name": "rock"
+		},
+		{
+			"url": "See No Evil Monkey.png",
+			"name": "see_no_evil_monkey"
+		},
+		{
+			"url": "Spider Web.png",
+			"name": "spider_web"
+		},
+		{
+			"url": "Spider.png",
+			"name": "spider"
+		},
+		{
+			"url": "Spiral Shell.png",
+			"name": "spiral_shell"
+		},
+		{
+			"url": "Sun With Face.png",
+			"name": "sun_with_face"
+		},
+		{
+			"url": "Tiger Face.png",
+			"name": "tiger_face"
+		},
+		{
+			"url": "Worm.png",
+			"name": "worm"
+		}
+	],
+	"other": [
+		{
+			"url": "American Football.png",
+			"name": "american_football"
+		},
+		{
+			"url": "Baseball.png",
+			"name": "baseball"
+		},
+		{
+			"url": "Basketball.png",
+			"name": "basketball"
+		},
+		{
+			"url": "Bomb.png",
+			"name": "bomb"
+		},
+		{
+			"url": "Bowling.png",
+			"name": "bowling"
+		},
+		{
+			"url": "Box.png",
+			"name": "box"
+		},
+		{
+			"url": "Circus Tent.png",
+			"name": "circus_tent"
+		},
+		{
+			"url": "Clapper Board.png",
+			"name": "clapper_board"
+		},
+		{
+			"url": "Clipboard.png",
+			"name": "clipboard"
+		},
+		{
+			"url": "Crystal Ball.png",
+			"name": "crystal_ball"
+		},
+		{
+			"url": "Curling Stone.png",
+			"name": "curling_stone"
+		},
+		{
+			"url": "Droplet.png",
+			"name": "droplet"
+		},
+		{
+			"url": "First Place Medal.png",
+			"name": "first_place_medal"
+		},
+		{
+			"url": "Game Die.png",
+			"name": "game_die"
+		},
+		{
+			"url": "Gear.png",
+			"name": "gear"
+		},
+		{
+			"url": "Gem Stone.png",
+			"name": "gem_stone"
+		},
+		{
+			"url": "Hourglass Not Done.png",
+			"name": "hourglass_not_done"
+		},
+		{
+			"url": "Jack O Lantern.png",
+			"name": "jack_o_lantern"
+		},
+		{
+			"url": "Joystick.png",
+			"name": "joystick"
+		},
+		{
+			"url": "Laptop.png",
+			"name": "laptop"
+		},
+		{
+			"url": "Mobile Phone.png",
+			"name": "mobile_phone"
+		},
+		{
+			"url": "Money Bag.png",
+			"name": "money_bag"
+		},
+		{
+			"url": "Movie Camera.png",
+			"name": "movie_camera"
+		},
+		{
+			"url": "Nazar Amulet.png",
+			"name": "nazar_amulet"
+		},
+		{
+			"url": "Newspaper.png",
+			"name": "newspaper"
+		},
+		{
+			"url": "Notebook With Decorative Cover.png",
+			"name": "notebook_with_decorative_cover"
+		},
+		{
+			"url": "Open Book.png",
+			"name": "open_book"
+		},
+		{
+			"url": "Open File Folder.png",
+			"name": "open_file_folder"
+		},
+		{
+			"url": "Open Mailbox With Lowered Flag.png",
+			"name": "open_mailbox_with_lowered_flag"
+		},
+		{
+			"url": "Optical Disk.png",
+			"name": "optical_disk"
+		},
+		{
+			"url": "Pill.png",
+			"name": "pill"
+		},
+		{
+			"url": "Pool 8 Ball.png",
+			"name": "pool_8_ball"
+		},
+		{
+			"url": "Puzzle Piece.png",
+			"name": "puzzle_piece"
+		},
+		{
+			"url": "Rainbow Flag.png",
+			"name": "rainbow_flag"
+		},
+		{
+			"url": "Robot.png",
+			"name": "robot"
+		},
+		{
+			"url": "Roll Of Paper.png",
+			"name": "roll_of_paper"
+		},
+		{
+			"url": "Rugby Football.png",
+			"name": "rugby_football"
+		},
+		{
+			"url": "Second Place Medal.png",
+			"name": "second_place_medal"
+		},
+		{
+			"url": "Slot Machine.png",
+			"name": "slot_machine"
+		},
+		{
+			"url": "Soccer Ball.png",
+			"name": "soccer_ball"
+		},
+		{
+			"url": "Softball.png",
+			"name": "softball"
+		},
+		{
+			"url": "Teddy Bear.png",
+			"name": "teddy_bear"
+		},
+		{
+			"url": "Telephone.png",
+			"name": "telephone"
+		},
+		{
+			"url": "Tennis.png",
+			"name": "tennis"
+		},
+		{
+			"url": "Third Place Medal.png",
+			"name": "third_place_medal"
+		},
+		{
+			"url": "Toilet.png",
+			"name": "toilet"
+		},
+		{
+			"url": "Toolbox.png",
+			"name": "toolbox"
+		},
+		{
+			"url": "Top Hat.png",
+			"name": "top_hat"
+		},
+		{
+			"url": "Trophy.png",
+			"name": "trophy"
+		},
+		{
+			"url": "Unlocked.png",
+			"name": "unlocked"
+		},
+		{
+			"url": "Video Game.png",
+			"name": "video_game"
+		},
+		{
+			"url": "Volleyball.png",
+			"name": "volleyball"
+		},
+		{
+			"url": "Wood.png",
+			"name": "wood"
+		},
+		{
+			"url": "World Map.png",
+			"name": "world_map"
+		},
+		{
+			"url": "Yarn.png",
+			"name": "yarn"
+		},
+		{
+			"url": "Yo Yo.png",
+			"name": "yo_yo"
+		}
+	],
+	"smiles": [
+		{
+			"url": "Alien Monster.png",
+			"name": "alien_monster"
+		},
+		{
+			"url": "Alien.png",
+			"name": "alien"
+		},
+		{
+			"url": "Angry Face With Horns.png",
+			"name": "angry_face_with_horns"
+		},
+		{
+			"url": "Angry Face.png",
+			"name": "angry_face"
+		},
+		{
+			"url": "Anguished Face.png",
+			"name": "anguished_face"
+		},
+		{
+			"url": "Anxious Face With Sweat.png",
+			"name": "anxious_face_with_sweat"
+		},
+		{
+			"url": "Astonished Face.png",
+			"name": "astonished_face"
+		},
+		{
+			"url": "Beaming Face With Smiling Eyes.png",
+			"name": "beaming_face_with_smiling_eyes"
+		},
+		{
+			"url": "Cat Face.png",
+			"name": "cat_face"
+		},
+		{
+			"url": "Cat With Tears Of Joy.png",
+			"name": "cat_with_tears_of_joy"
+		},
+		{
+			"url": "Cat With Wry Smile.png",
+			"name": "cat_with_wry_smile"
+		},
+		{
+			"url": "Clown Face.png",
+			"name": "clown_face"
+		},
+		{
+			"url": "Cold Face.png",
+			"name": "cold_face"
+		},
+		{
+			"url": "Confounded Face.png",
+			"name": "confounded_face"
+		},
+		{
+			"url": "Confused Face.png",
+			"name": "confused_face"
+		},
+		{
+			"url": "Cowboy Hat Face.png",
+			"name": "cowboy_hat_face"
+		},
+		{
+			"url": "Crying Cat.png",
+			"name": "crying_cat"
+		},
+		{
+			"url": "Crying Face.png",
+			"name": "crying_face"
+		},
+		{
+			"url": "Disappointed Face.png",
+			"name": "disappointed_face"
+		},
+		{
+			"url": "Disguised Face.png",
+			"name": "disguised_face"
+		},
+		{
+			"url": "Dizzy Face.png",
+			"name": "dizzy_face"
+		},
+		{
+			"url": "Downcast Face With Sweat.png",
+			"name": "downcast_face_with_sweat"
+		},
+		{
+			"url": "Drooling Face.png",
+			"name": "drooling_face"
+		},
+		{
+			"url": "Exploding Head.png",
+			"name": "exploding_head"
+		},
+		{
+			"url": "Expressionless Face.png",
+			"name": "expressionless_face"
+		},
+		{
+			"url": "Face Blowing A Kiss.png",
+			"name": "face_blowing_a_kiss"
+		},
+		{
+			"url": "Face Exhaling.png",
+			"name": "face_exhaling"
+		},
+		{
+			"url": "Face In Clouds.png",
+			"name": "face_in_clouds"
+		},
+		{
+			"url": "Face Savoring Food.png",
+			"name": "face_savoring_food"
+		},
+		{
+			"url": "Face Screaming In Fear.png",
+			"name": "face_screaming_in_fear"
+		},
+		{
+			"url": "Face Vomiting.png",
+			"name": "face_vomiting"
+		},
+		{
+			"url": "Face With Hand Over Mouth.png",
+			"name": "face_with_hand_over_mouth"
+		},
+		{
+			"url": "Face With Head Bandage.png",
+			"name": "face_with_head_bandage"
+		},
+		{
+			"url": "Face With Medical Mask.png",
+			"name": "face_with_medical_mask"
+		},
+		{
+			"url": "Face With Monocle.png",
+			"name": "face_with_monocle"
+		},
+		{
+			"url": "Face With Open Mouth.png",
+			"name": "face_with_open_mouth"
+		},
+		{
+			"url": "Face With Raised Eyebrow.png",
+			"name": "face_with_raised_eyebrow"
+		},
+		{
+			"url": "Face With Rolling Eyes.png",
+			"name": "face_with_rolling_eyes"
+		},
+		{
+			"url": "Face With Spiral Eyes.png",
+			"name": "face_with_spiral_eyes"
+		},
+		{
+			"url": "Face With Steam From Nose.png",
+			"name": "face_with_steam_from_nose"
+		},
+		{
+			"url": "Face With Symbols On Mouth.png",
+			"name": "face_with_symbols_on_mouth"
+		},
+		{
+			"url": "Face With Tears Of Joy.png",
+			"name": "face_with_tears_of_joy"
+		},
+		{
+			"url": "Face With Thermometer.png",
+			"name": "face_with_thermometer"
+		},
+		{
+			"url": "Face With Tongue.png",
+			"name": "face_with_tongue"
+		},
+		{
+			"url": "Face Without Mouth.png",
+			"name": "face_without_mouth"
+		},
+		{
+			"url": "Fearful Face.png",
+			"name": "fearful_face"
+		},
+		{
+			"url": "Flushed Face.png",
+			"name": "flushed_face"
+		},
+		{
+			"url": "Frowning Face With Open Mouth.png",
+			"name": "frowning_face_with_open_mouth"
+		},
+		{
+			"url": "Frowning Face.png",
+			"name": "frowning_face"
+		},
+		{
+			"url": "Ghost.png",
+			"name": "ghost"
+		},
+		{
+			"url": "Goblin.png",
+			"name": "goblin"
+		},
+		{
+			"url": "Grimacing Face.png",
+			"name": "grimacing_face"
+		},
+		{
+			"url": "Grinning Cat With Smiling Eyes.png",
+			"name": "grinning_cat_with_smiling_eyes"
+		},
+		{
+			"url": "Grinning Cat.png",
+			"name": "grinning_cat"
+		},
+		{
+			"url": "Grinning Face With Big Eyes.png",
+			"name": "grinning_face_with_big_eyes"
+		},
+		{
+			"url": "Grinning Face With Smiling Eyes.png",
+			"name": "grinning_face_with_smiling_eyes"
+		},
+		{
+			"url": "Grinning Face With Sweat.png",
+			"name": "grinning_face_with_sweat"
+		},
+		{
+			"url": "Grinning Face.png",
+			"name": "grinning_face"
+		},
+		{
+			"url": "Grinning Squinting Face.png",
+			"name": "grinning_squinting_face"
+		},
+		{
+			"url": "Hot Face.png",
+			"name": "hot_face"
+		},
+		{
+			"url": "Hugging Face.png",
+			"name": "hugging_face"
+		},
+		{
+			"url": "Hushed Face.png",
+			"name": "hushed_face"
+		},
+		{
+			"url": "Kissing Cat.png",
+			"name": "kissing_cat"
+		},
+		{
+			"url": "Kissing Face With Closed Eyes.png",
+			"name": "kissing_face_with_closed_eyes"
+		},
+		{
+			"url": "Kissing Face With Smiling Eyes.png",
+			"name": "kissing_face_with_smiling_eyes"
+		},
+		{
+			"url": "Kissing Face.png",
+			"name": "kissing_face"
+		},
+		{
+			"url": "Loudly Crying Face.png",
+			"name": "loudly_crying_face"
+		},
+		{
+			"url": "Lying Face.png",
+			"name": "lying_face"
+		},
+		{
+			"url": "Money Mouth Face.png",
+			"name": "money_mouth_face"
+		},
+		{
+			"url": "Nauseated Face.png",
+			"name": "nauseated_face"
+		},
+		{
+			"url": "Nerd Face.png",
+			"name": "nerd_face"
+		},
+		{
+			"url": "Neutral Face.png",
+			"name": "neutral_face"
+		},
+		{
+			"url": "Ogre.png",
+			"name": "ogre"
+		},
+		{
+			"url": "Partying Face.png",
+			"name": "partying_face"
+		},
+		{
+			"url": "Pensive Face.png",
+			"name": "pensive_face"
+		},
+		{
+			"url": "Persevering Face.png",
+			"name": "persevering_face"
+		},
+		{
+			"url": "Pile Of Poo.png",
+			"name": "pile_of_poo"
+		},
+		{
+			"url": "Pleading Face.png",
+			"name": "pleading_face"
+		},
+		{
+			"url": "Pouting Cat.png",
+			"name": "pouting_cat"
+		},
+		{
+			"url": "Pouting Face.png",
+			"name": "pouting_face"
+		},
+		{
+			"url": "Relieved Face.png",
+			"name": "relieved_face"
+		},
+		{
+			"url": "Rolling On The Floor Laughing.png",
+			"name": "rolling_on_the_floor_laughing"
+		},
+		{
+			"url": "Sad But Relieved Face.png",
+			"name": "sad_but_relieved_face"
+		},
+		{
+			"url": "Shushing Face.png",
+			"name": "shushing_face"
+		},
+		{
+			"url": "Skull And Crossbones.png",
+			"name": "skull_and_crossbones"
+		},
+		{
+			"url": "Skull.png",
+			"name": "skull"
+		},
+		{
+			"url": "Sleeping Face.png",
+			"name": "sleeping_face"
+		},
+		{
+			"url": "Sleepy Face.png",
+			"name": "sleepy_face"
+		},
+		{
+			"url": "Slightly Frowning Face.png",
+			"name": "slightly_frowning_face"
+		},
+		{
+			"url": "Slightly Smiling Face.png",
+			"name": "slightly_smiling_face"
+		},
+		{
+			"url": "Smiling Cat With Heart Eyes.png",
+			"name": "smiling_cat_with_heart_eyes"
+		},
+		{
+			"url": "Smiling Face With Halo.png",
+			"name": "smiling_face_with_halo"
+		},
+		{
+			"url": "Smiling Face With Heart Eyes.png",
+			"name": "smiling_face_with_heart_eyes"
+		},
+		{
+			"url": "Smiling Face With Hearts.png",
+			"name": "smiling_face_with_hearts"
+		},
+		{
+			"url": "Smiling Face With Horns.png",
+			"name": "smiling_face_with_horns"
+		},
+		{
+			"url": "Smiling Face With Smiling Eyes.png",
+			"name": "smiling_face_with_smiling_eyes"
+		},
+		{
+			"url": "Smiling Face With Sunglasses.png",
+			"name": "smiling_face_with_sunglasses"
+		},
+		{
+			"url": "Smiling Face With Tear.png",
+			"name": "smiling_face_with_tear"
+		},
+		{
+			"url": "Smiling Face.png",
+			"name": "smiling_face"
+		},
+		{
+			"url": "Smirking Face.png",
+			"name": "smirking_face"
+		},
+		{
+			"url": "Sneezing Face.png",
+			"name": "sneezing_face"
+		},
+		{
+			"url": "Squinting Face With Tongue.png",
+			"name": "squinting_face_with_tongue"
+		},
+		{
+			"url": "Star Struck.png",
+			"name": "star_struck"
+		},
+		{
+			"url": "Thinking Face.png",
+			"name": "thinking_face"
+		},
+		{
+			"url": "Tired Face.png",
+			"name": "tired_face"
+		},
+		{
+			"url": "Unamused Face.png",
+			"name": "unamused_face"
+		},
+		{
+			"url": "Upside Down Face.png",
+			"name": "upside_down_face"
+		},
+		{
+			"url": "Weary Cat.png",
+			"name": "weary_cat"
+		},
+		{
+			"url": "Weary Face.png",
+			"name": "weary_face"
+		},
+		{
+			"url": "Winking Face With Tongue.png",
+			"name": "winking_face_with_tongue"
+		},
+		{
+			"url": "Winking Face.png",
+			"name": "winking_face"
+		},
+		{
+			"url": "Woozy Face.png",
+			"name": "woozy_face"
+		},
+		{
+			"url": "Worried Face.png",
+			"name": "worried_face"
+		},
+		{
+			"url": "Yawning Face.png",
+			"name": "yawning_face"
+		},
+		{
+			"url": "Zany Face.png",
+			"name": "zany_face"
+		},
+		{
+			"url": "Zipper Mouth Face.png",
+			"name": "zipper_mouth_face"
+		}
+	]
+}
